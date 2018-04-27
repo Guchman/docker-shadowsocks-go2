@@ -5,3 +5,5 @@ Build with:
 ```bash
 docker build ./context -t shadowsocks-go2
 ```
+
+Docker repo: https://hub.docker.com/r/guchman/shadowsocks-go2/
