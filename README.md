@@ -3,5 +3,5 @@ Docker of shadowsocks go2 version: https://github.com/shadowsocks/go-shadowsocks
 
 Build with:
 ```bash
-docker build ./context
+docker build ./context -t shadowsocks-go2
 ```
